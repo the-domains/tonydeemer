@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 1
+  brandColors:
+    - '#FDFDFB'
+    - '#000000'
+    - '#00017C'
+    - '#930100'
+    - '#C39A00'
+  rhythmicContrast: 1
+typography_spectrum: 0.7625313
+name: TonyDeemer
