@@ -1,14 +1,28 @@
+name: TonyDeemer
+favicon: null
 layout_spectrum: 1
+typography_spectrum: 0.7625313
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
+  brandColors:
+    - '#fbfbfb'
+    - '#020202'
+    - '#7a7a7a'
+    - '#a11111'
+    - '#daad2d'
   brandStrength: 1
   lightness: 1
-  brandColors:
-    - '#FDFDFB'
-    - '#000000'
-    - '#00017C'
-    - '#930100'
-    - '#C39A00'
+  saturation: 1
   rhythmicContrast: 1
-typography_spectrum: 0.7625313
-name: TonyDeemer
+purpose: []
