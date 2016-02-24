@@ -1,12 +1,12 @@
 ---
-description: ''
+description: 'EVOL: The Theory of Love'
 author: []
-datePublished: '2016-02-24T21:57:46.236Z'
+datePublished: '2016-02-24T22:03:24.546Z'
 publisher:
   domain: ''
   name: ''
-title: 'EVOL: The Theory of Love'
-dateModified: '2016-02-24T00:57:26.329Z'
+title: 'EVOL: The Theory of Love '
+dateModified: '2016-02-14T04:59:19.493Z'
 sourcePath: _posts/2016-02-24-evol-the-theory-of-love.md
 published: true
 inFeed: true
@@ -17,6 +17,4 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# EVOL: The Theory of Love
-
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F105253428&amp;url=https%3A%2F%2Fvimeo.com%2F105253428&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F488000375_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="419" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
+# EVOL: The Theory of Love ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d9aa68d-5e7a-4b80-ba55-c787eacb38af.png)
