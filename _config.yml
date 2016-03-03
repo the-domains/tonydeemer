@@ -1,6 +1,6 @@
 name: TonyDeemer
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.75173
 typography_spectrum: 0.79836
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#0d0e10'
-    - '#e3e2e8'
-    - '#b37b69'
-    - '#c6c0ab'
-    - '#628756'
+    - '#f9fdff'
+    - '#b31c23'
+    - '#11251c'
+    - '#7ba750'
+    - '#30a6ce'
   brandStrength: 1
   lightness: 1
   saturation: 1
-  rhythmicContrast: 1
+  rhythmicContrast: 0.75
 purpose: []
