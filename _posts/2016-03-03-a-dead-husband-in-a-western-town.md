@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Tony Deemer
-    url: 'http://vimeo.com/tonydeemer'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/156485737'
+inLanguage: en
+starred: false
 keywords:
   - idx
   - bartech
@@ -20,8 +16,14 @@ keywords:
   - cinema
   - lens
   - bolt
-description: "He's the Sheriff you are looking for, ...unless he is looking for you! RED Scarlet-X Rokinon Cinema Lens Bartech Follow Focus Teradek Bolt Pro IDX Steadicam"
-inLanguage: en
+description: "He's the Sheriff you are looking for, ...unless he is looking for you! "
+datePublished: '2016-03-03T05:39:40.798Z'
+dateModified: '2016-03-03T05:39:40.541Z'
+author:
+  - name: Tony Deemer
+    url: 'http://vimeo.com/tonydeemer'
+    avatar: {}
+related: []
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/156485737'
     type: ios
@@ -49,15 +51,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/156485737'
 title: 'A Dead Husband in a Western Town '
-datePublished: '2016-03-03T04:44:44.036Z'
-dateModified: '2016-02-24T00:56:47.419Z'
 sourcePath: _posts/2016-03-03-a-dead-husband-in-a-western-town.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
