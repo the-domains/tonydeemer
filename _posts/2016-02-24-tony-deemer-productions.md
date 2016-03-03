@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Tony is a Camera  and Steadicam Operator belonging to IATSE Local 600, SOC, Steadicam Guild and Steadicam Operators Association.'
-datePublished: '2016-03-03T04:16:56.806Z'
-dateModified: '2016-03-03T04:16:48.305Z'
+datePublished: '2016-03-03T04:32:00.752Z'
+dateModified: '2016-03-03T04:23:42.763Z'
 author: []
 title: Tony Deemer Productions
 sourcePath: _posts/2016-02-24-tony-deemer-productions.md
