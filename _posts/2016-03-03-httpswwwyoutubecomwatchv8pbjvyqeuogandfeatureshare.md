@@ -1,14 +1,14 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: ''
-datePublished: '2016-03-03T05:31:57.156Z'
-dateModified: '2016-03-03T05:31:36.469Z'
-title: 'https://www.youtube.com/watch?v=8PBjVyQeuog&feature=share'
+description: '15 year old Whitney Woerz, on set filming her first music video - Loss & Love. It premiered on the AMA Pre-Show on Nov. 27, 2015. '
+datePublished: '2016-03-03T05:34:53.019Z'
+dateModified: '2016-03-03T05:34:41.833Z'
+title: ''
 author: []
 sourcePath: _posts/2016-03-03-httpswwwyoutubecomwatchv8pbjvyqeuogandfeatureshare.md
 published: true
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: httpswwwyoutubecomwatchv8pbjvyqeuogandfeatureshare/index.html
-_type: Article
+_type: WebPage
 
 ---
 Whitney Woerz EP: BEHIND THE SMILE Available on iTunes!
